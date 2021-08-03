@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chitra161999
+- 👋 Hi, I’m Chitra Rajput
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on competitive coding 
