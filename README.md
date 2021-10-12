@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chitra Rajput
-- I'm an Associate Engineer 
+-    I'm an Associate Engineer 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on competitive coding 
