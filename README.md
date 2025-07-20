@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chitra Rajput
--    I'm an Software Enginner at Harman 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development 
+-    I'm a Software Enginner at Harman 
+- 👀 I’m an SDET with 4 years of Experience
+- 🌱 I’m currently learning Maching Learning 
 - 💞️ I’m looking to collaborate on competitive coding 
 - 📫 How to reach me rajpuchitra1999@gmail.com
 
